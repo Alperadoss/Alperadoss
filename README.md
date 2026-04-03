@@ -31,11 +31,5 @@ Only frontend developer. Shipped 3 different product frontends in 12 months in a
 Backed by a 8-year career in R&D, technical product development, and technical sales. I understand the problems I'm solving, not just the code.
 
 - 💬 English C1 (IELTS 7.5)
-- 📫 [your@email.com](mailto:alperyazagan@gmail.com)
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/alper-yazagan/))
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alperadoss&theme=dark&hide_border=true)<br/>
-
-
+- 📫 [mailto:alperyazagan@gmail.com]
+- 🔗 [LinkedIn(https://www.linkedin.com/in/alper-yazagan/)]
