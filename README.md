@@ -32,4 +32,4 @@ Backed by a 8-year career in R&D, technical product development, and technical s
 
 - 💬 English C1 (IELTS 7.5)
 - 📫 [mailto:alperyazagan@gmail.com]
-- 🔗 [LinkedIn(https://www.linkedin.com/in/alper-yazagan/)]
+- 🔗 [(https://www.linkedin.com/in/alper-yazagan/)]
