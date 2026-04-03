@@ -1,16 +1,39 @@
 # 💫 About Me:
-Hi 👋, I'm Alper;<br><br>A passionate full-stack developer!<br><br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alperadocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alperadocodes" height="30" width="40" /></a>
-</p>
-<br><br>
+I build production systems end-to-end. My background is environmental engineering (MSc, Istanbul Technical University), which means I work mostly at the intersection of software and real-world industrial problems: water treatment, carbon accounting, energy optimization.
 
-![coffee-make](https://user-images.githubusercontent.com/105927405/227920068-fa6d5361-82d5-44fc-a40e-b038fff392b4.gif)
+Self-taught developer. Started coding at 30. Shipped to production within a year.
 
+---
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## What I've Built
+
+**Clewas** — Industrial water treatment optimization platform
+Trained an ML model and built a digital twin for real-time process optimization. Achieved **10% energy savings and 24% chemical reduction** in a 3-month POC with an industrial client.
+
+**Ekozen** — Corporate carbon footprint calculation platform
+Full-stack carbon accounting tool for businesses. Designed the database schema, built the Node.js backend and React frontend, and translated complex regulatory reporting requirements into working software.
+
+**Dria (formerly FirstBatch)** — AI & blockchain startup 
+Only frontend developer. Shipped 3 different product frontends in 12 months in a fast-moving startup environment with no senior guidance. Managed complex data sync across multiple APIs.
+
+---
+## Stack
+
+**Frontend** — React, Next.js, TypeScript, Tailwind CSS, Redux  
+**Backend** — Node.js, Express.js, REST APIs, FastAPI  
+**Databases** — MongoDB, PostgreSQL, Supabase  
+**Other** — Docker, Git, Cloudflare, ML (scikit-learn), React Native, Playwright
+
+---
+
+## Background
+
+Backed by a 8-year career in R&D, technical product development, and technical sales. I understand the problems I'm solving, not just the code.
+
+- 💬 English C1 (IELTS 7.5)
+- 📫 [your@email.com](mailto:alperyazagan@gmail.com)
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/alper-yazagan/))
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alperadoss&theme=dark&hide_border=true)<br/>
